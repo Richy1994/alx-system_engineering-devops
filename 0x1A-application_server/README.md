@@ -1,3 +1,4 @@
+0x1A. Application server
 # Application_server
 
 ![](https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Application-Server-1.1.png)
